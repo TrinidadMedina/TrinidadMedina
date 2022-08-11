@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 <h1 align="center">trinidad medina ™️🌶️</h1>
 <h3 align="center">A passionate frontend developer and historian from Chile</h3>
 
-- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on creative innovation projects
+
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TrinidadMedina](https://github.com/TrinidadMedina)
 
-- 💬 Ask me about **JS, Excel, documentaries**
+- 💬 Ask me about **JS, Excel, documentaries, History!**
 
 - 📫 How to reach me **trinidad.medina.silva@gmail.com**
 
-- ⚡ Fun fact **hago excels sobre signos del zodiaco xd**
+- ⚡ Fun fact: **I do excels about zodiac signs xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
