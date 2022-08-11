@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on creative innovation projects
 
-- 🌱 I’m currently learning **Vue**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TrinidadMedina](https://github.com/TrinidadMedina)
-
 - 💬 Ask me about **JS, Excel, documentaries, History!**
+
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **trinidad.medina.silva@gmail.com**
 
