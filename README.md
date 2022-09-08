@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JS, Excel, documentaries, History!**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **trinidad.medina.silva@gmail.com**
 
